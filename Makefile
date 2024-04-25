@@ -1,4 +1,4 @@
-NAME 		= 	push_swap
+NAME 		= 	#put your executable file here
 CFLAGS		=	-Wall -Wextra -Werror
 SRCS		=	main.c
 INCLUDE_FLAGS	=	-I includes/
